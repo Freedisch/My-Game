@@ -13,10 +13,10 @@
 
 
 
-The game has been developped by using godot script a programming language close to python.
-Created: November 2021 (2 weeks)
-By: Me
-Thanks to my friend Rodolphe who gave me the idea
+####The game has been developped by using godot script a programming language close to python.
+#### Created: November 2021 (2 weeks)
+#### By: Me
+#### Thanks to my friend Rodolphe who gave me the idea
 
 
 
