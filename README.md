@@ -20,7 +20,7 @@ Thanks to my friend Rodolphe who gave me the idea
 
 
 
-#ABOUT GODOT ENGINE
-GODOT is an open-source gaming engine like unity but less heavy than 😖(u know what i'm talking about ). It has features and is as powerful as unity. I think every game dev has to try it.
-If you are not feeling comfortable about using godot script, don't worry godot engine support multiple programming language like python and C# i think C++( not so sure about that one).
+# ABOUT GODOT ENGINE
+#### GODOT is an open-source gaming engine like unity but less heavy than 😖(u know what i'm talking about ). It has features and is as powerful as unity. I think every game dev has to try it.
+#### If you are not feeling comfortable about using godot script, don't worry godot engine support multiple programming language like python and C# i think C++( not so sure about that one).
 
