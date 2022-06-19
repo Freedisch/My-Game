@@ -1,5 +1,6 @@
- #DODGE CREEP
- ###You are playing a frog and your goal is to avoid other animal if you doon't want to die
+ # DODGE CREEP
+ ### You are playing a frog and your goal is to avoid other animals if you don't want to die
+ 
  ![Screenshot (149)](https://user-images.githubusercontent.com/82499435/174469722-f2d96e03-143b-4604-ae75-27f069e707e8.png)
  
 ![Screenshot (150)](https://user-images.githubusercontent.com/82499435/174469739-13bbc739-453b-47b8-a30f-617d3d289cbf.png)
